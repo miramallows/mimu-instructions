@@ -31,7 +31,7 @@ in order for **me (iara)** to be able to set up your bot to start running mimu, 
 ![](https://i.imgur.com/Ea06mEO.png)
 
 7. Alright, we're almost done. now scroll a little bit to uncover a section called "Privileged Gateway Intents". you're gonna need to activate the "Guild Members" and "Message Content" ones. Remember to save your changes!
-![](blob:https://imgur.com/3e51e2f5-3b36-4731-9f0e-8413b20cadd7)
+![](https://i.imgur.com/vDWXQQZ.png)
 
 8. Okay! Now you just have to fetch your Client ID and Token and drop it to iara#0001's DMs (if you don't have access to my DMs yet, poke me in talk-to-devs and drop me a friend request). once you've done so, it will take me up to 3 days to set up (usually less than a day).
 
