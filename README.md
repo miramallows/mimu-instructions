@@ -1,15 +1,14 @@
 # mimu-instructions
-Instructions for setting up "Your Own Mimu" tier on Patreon.
+instructions for setting up the "my own mimu" donator tier
 
-### thank you!
+### ♡ a whole-hearted thank you!
 thank you so much for pledging and supporting me in my passion project. the costs of this tier goes directly to **making your experience** even better through:
- - dedicated resources for your bot in its **own** container
+ - dedicated resources for your bot in its **own** container - making updates smoother & minimal downtime for YOU and your server; faster updates & just a bot that runs faster than main mimu
  - comes with one key a month (to activate premium of your bot)
  - easy data transfer between your bot and existing bots
- - better uptime, stability, latency, and features will be refined
- - extra customisability like editing your profile picture and username and having control of your bot account.
+ - extra customisability like editing your profile picture and username and having control of your bot account
 
-in order for **me (iara)** to be able to set up your bot to start running mimu, you have to take a few steps. this guide will serve as that.
+in order for **our staff** to be able to set up your bot to start running mimu, you have to take a few steps. this guide will serve as that.
 
 ### creating your bot account
 1. head to [the discord developer portal](https://canary.discord.com/developers/applications).
@@ -33,7 +32,7 @@ in order for **me (iara)** to be able to set up your bot to start running mimu, 
 7. Alright, we're almost done. now scroll a little bit to uncover a section called "Privileged Gateway Intents". you're gonna need to activate the "Guild Members" and "Message Content" ones. Remember to save your changes!
 ![](https://i.imgur.com/vDWXQQZ.png)
 
-8. Okay! Now you just have to fetch your Client ID and Token and drop it to iara#0001's DMs (if you don't have access to my DMs yet, poke me in talk-to-devs and drop me a friend request). once you've done so, it will take me up to 3 days to set up (usually less than a day).
+8. Okay! Now you just have to fetch your Client ID (or can be known as Application ID) and Token, make a private thread (instructions are in the mom-setup channel) and paste it there. Once you've done so, it will take me up to 3 days to set up (usually less than 24 hours).
 
 client id (need to go back to general information on the nav bar). not to be confused with client secret:
 ![](https://i.imgur.com/r49N3yo.png)
@@ -42,4 +41,4 @@ token:
 ![](https://i.imgur.com/ln5VqHm.png)
 
 ### have questions?
-- reach out to me in #talk-to-devs, DMs, ask in #support-english, or check FAQ in the pins of #your-own-mimu.
+- reach out to us in mom-setup or talk-to-devs.
