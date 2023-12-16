@@ -35,7 +35,7 @@ in order for **our staff** to be able to set up your bot to start running mimu, 
 8. Okay! Now you just have to fetch your Client ID (or can be known as Application ID) and Token, make a private thread (instructions are in the mom-setup channel) and paste it there. Once you've done so, it will take me up to 3 days to set up (usually less than 24 hours).
 
 client id (need to go back to general information on the nav bar). not to be confused with client secret:
-![](https://i.imgur.com/r49N3yo.png)
+![](https://i.imgur.com/lZRiK6I.png)
 
 token:
 ![](https://i.imgur.com/gdsSrHr.png)
