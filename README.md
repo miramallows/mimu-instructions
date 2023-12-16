@@ -26,7 +26,7 @@ in order for **our staff** to be able to set up your bot to start running mimu, 
 ![](https://i.imgur.com/MkVZkjw.png)
 ![](https://i.imgur.com/qbFvUg8.png)
 
-6. once you've done so, your page should look like this. make sure to leave "public bot" on for now - this is because i have to invite your bot to the mimu emoji server as mimu has some custom emojis it uses. i strongly recommend switching it back off when i'm done setting up.
+6. once you've done so, your page should look like this. make sure to leave "public bot" on for now - this is because i have to invite your bot to the mimu emoji server as mimu has some custom emojis it uses. i strongly recommend switching it back off when i'm done setting up, but it's not mandatory.
 ![](https://i.imgur.com/Ea06mEO.png)
 
 7. Alright, we're almost done. now scroll a little bit to uncover a section called "Privileged Gateway Intents". you're gonna need to activate the "Guild Members" and "Message Content" ones. Remember to save your changes!
@@ -38,7 +38,7 @@ client id (need to go back to general information on the nav bar). not to be con
 ![](https://i.imgur.com/r49N3yo.png)
 
 token:
-![](https://i.imgur.com/ln5VqHm.png)
+![](https://i.imgur.com/gdsSrHr.png)
 
 ### have questions?
 - reach out to us in mom-setup or talk-to-devs.
